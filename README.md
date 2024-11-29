@@ -1,1 +1,3 @@
 # Weather-app
+
+This project focuses on developing a machine learning model to predict heart disease risk using the Framingham Heart Study dataset. The dataset was preprocessed to handle missing values, outliers, and imbalances, followed by feature engineering and selection to identify significant risk factors. Machine learning algorithms were implemented and fine-tuned, resulting in an impressive accuracy of 96.8%. This project highlights the potential of machine learning in healthcare by providing accurate predictions and insights into critical health parameters. Tools and technologies include Python, scikit-learn, Pandas, NumPy, Matplotlib, and Seaborn. The repository includes detailed analysis, code, and visualizations.
